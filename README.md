@@ -1,5 +1,3 @@
-# Kushagra Kasbi
-
 ## Profile Summary
 
 Senior Software Engineer with 6 Years and 2 Months of experience in development, analysis and
@@ -51,7 +49,6 @@ Infosys Limited
 Bachelor of Technology (Computer Science)                                                            07/2010 – 05/2014
 Guna, Madhya Pradesh
 Jaypee University of Engineering and Technology
-
 <!--
 **kushagrakasbi/kushagrakasbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
