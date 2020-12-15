@@ -1,7 +1,7 @@
 ## Profile Summary
 
-Senior Software Engineer with 6 Years and 2 Months of experience in development, analysis and
-designing solutions for clients. Proficient in C#, .Net Core, Web APIs, Node.js, Azure cloud architecture and design,
+Senior Software Engineer with 7 Years of experience in development, analysis and
+designing solutions for clients. Proficient in C#, .Net Core, Web APIs, Angular 2+ ,Node.js, Azure cloud architecture and design,
 Microservices, SQL Server, ASP .Net MVC based development. Spearheaded development and designed solution for
 various applications throughout all phases of SDLC (Agile) specific to the client requirements.
 Partnered with other developers, analysts, QA and support engineers throughout the product life
