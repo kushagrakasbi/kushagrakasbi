@@ -11,7 +11,7 @@ cycle to produce high-quality, user-friendly, scalable, sustainable software.
 
 **Senior Software Developer**                                                                          *04/2019 – present*
 Mumbai, Maharashtra
-**Pegasus infocorp Ltd**
+**Johnson Controls**
 
 - Designed and developed a Microservice-based product from scratch, implemented .Net Core APIs created SQL Server and No SQL Databases, Azure cloud architecture (Acting Tech Lead)
 - Developed and designed complete backend for a web app which is now in-use in production
