@@ -2,9 +2,6 @@
 
 **Principal SDE at Zscaler**
 
-**Location:** Pune, Maharashtra, India  
-**Phone:** +91-7066509349  
-**Email:** kushagra.kasbi@gmail.com  
 **LinkedIn:** [linkedin.com/in/kushagrakasbi](https://www.linkedin.com/in/kushagrakasbi)
 
 ---
